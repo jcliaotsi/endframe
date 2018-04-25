@@ -1,0 +1,155 @@
+Upgrade tree for Competitive PvP
+
+-Movement
+    -Upgrades tied to Specializations
+	-Soldier
+	    -Forward Roll
+	-Assassin
+	    -Forward Dash
+	-Surgeon
+	    -Forward Lunge
+	-Engineer
+	    -Forward Charge
+-Weapon Type
+    -ARs
+	-Reduce Recoil (Smaller Spread)
+	-Increase Range (Higher Bullet Distance)
+	-Faster Reload
+	-Better Handling (Faster Weapon Swap)
+	    -FINAL PERK
+		-Higher Cap Mags (Increased ammo capacity)
+    -SMGs
+	-Increase Impact (.01 second stun -> .05 second stun)
+	-Increase Range
+	-Better handling
+	    -FINAL PERK
+		-Tracer Rounds (Enemies hit by your SMG are highlighted
+		 on map for 5 seconds)
+    -Pistols
+	-Increase Impact
+	-Increase Range
+	-Reduce Kickback (Less time between shots)
+	    -FINAL PERK
+		-Precision Pain (Increased headshot damage)
+    -Shotguns	
+	-Increase Spread
+	-Decrease Spread
+	-Increase Range
+	-Reduce Kickback
+	-Increase Impact
+	    -FINAL PERK
+		-Hammer Shells (Hitting an enemy with 8 or more pellets in
+		 one spread knocks them over)
+    -Sniper Rifles
+	-Reduce Kickback
+	-Faster reload
+	-Increase Firepower (Less bullet drop)
+	-Better Handling
+	    -FINAL PERK
+		-Ghostly Aim (Become Ethereal for up to 5 seconds while Aiming)
+    -Melee
+	-Faster Strike Speed (Less time between swings)
+	-Reinforce (Increase damage on blunt weapons)
+	-Sharpen (Increase damage on bladed weapons)
+	-Better Handling
+	    -FINAL PERK
+		-Lightning Strikes (Your swings fire out a small field in front
+		 of you, dealing minor damage)
+-Specializations
+    -Soldier
+	-Specs: SMG, ARs, Shotguns
+	    -Classes: CQB, Aggressive, Defensive
+		-Powerplays:
+		    -CQB: Spray and Pray
+			-Your magazine sizes double for 30 Sec.
+			 Reduced accuracy for 30 Sec.
+		    -Aggressive: Push Forward
+			-Grants Resistance and Bonus Damage to you and
+			 one Target for 10 Sec.
+		    -Defensive: Hold your Ground
+			-Your magazine sizes double for 30 Sec.
+			 Grants Resistance for 30 Sec.
+			 Reduced Speed for 30 Sec.
+
+    -Assassin
+	-Specs: Snipers, Pistols, Melee
+	    -Classes: Ranged, Scouting, Silencing
+		-Powerplays:
+		    -Ranged: Deadly Precision
+			-Gain a Bolt Sniper which eliminates any Target on hit.
+			 Weapon has 1 charge on a timer of 30 Sec.
+		    -Scouting: Tactical Relocation
+			-Gain Speed Increase and Mark all Targets for 10 Sec.
+		    -Silencing: Move Unseen
+			-Gain a Silenced Pistol which, when fired, Masks you from
+			 any Marking effects and shields you from Scopes. Precision hits
+			 with this pistol blind enemies briefly.
+
+    -Surgeon
+	-Specs: Pistols, Shotguns, Melee
+	    -Classes: Wardoc, Biodoc, Aggrodoc
+		-Powerplays:
+		    -Wardoc: Frankenstein's Monster
+			-Heal 50% health and grant Bonus Damage to one Target.
+			 Ability gains power as you take damage
+		    -Biodoc: Anthrax Knife
+			-Gain a Tactical Knife which deals 50% damage of Target.
+			 Targets hit with this weapon take damage over time.
+			 Target's weapons deal Reduced Damage.
+			 Weapon has 1 charge on a timer of 30 Sec.
+		    -Aggrodoc: Shared Aggression
+			-Grants Bonus Damage and Speed Increase
+			 to you and one Target.
+
+    -Engineer
+	-Specs: SMGs, Shotguns, Melee
+	    -Classes: Operator, Mechanic, Forgemaster
+		-Powerplays:
+		    -Operator: Arm the Inanimate
+			-Construct an Automatic Turret anywhere on your Base.
+			 Turret lasts for 30 Sec.
+		    -Mechanic: Fast Hands
+			-Grants double Maintenance Speed to all teammates.
+			 You gain 4x Maintenance Speed and double Handling Speed.
+		    -Forgemaster: Technical Upgrades
+			-All Targets gain Resistance and Bonus Damage for 15 Sec.
+
+
+82 Pixels for character
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

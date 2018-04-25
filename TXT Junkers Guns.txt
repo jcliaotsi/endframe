@@ -1,0 +1,80 @@
+Standard Rifles
+
+AK47
+M16
+FN SCAR-L
+AR-15
+QBZ-95
+ACR Assault Rifle
+MK5
+MC6
+M4A1
+
+Sub Machine Guns
+
+P90
+MP5
+Kriss Vector
+Uzi
+SIG MPX
+HK33
+AK74u
+Magpul PDR
+
+Shotguns
+
+Sawed-Off
+Combat
+Ranged
+Double-Barrel
+Remington
+SPAS-12
+AA-12
+Winchester M1400
+Kel-Tec KSG
+Lever-Action
+
+Sniper Rifles
+
+SSG69
+SVD Dragunov
+AGM Type 96
+Kalashnikov SVK
+Sako TRG
+MKEK JNG-90
+Steyr HS .50
+M82A1
+
+Pistols
+
+Deagle
+S&W 500
+Glock 19
+Beretta M9
+M1911
+.357 Magnum Revolver
+Chiappa Rhino
+
+Melee
+
+Combat Knife
+Baseball Bat
+Chainsaw
+Samurai Sword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
