@@ -1,0 +1,49 @@
+Sniper
+	assassinated (Victim)!
+	shnoiped (Victim)!
+	silenced (Victim)!
+	JFK'd [if headshot] (Victim)!
+	made [if headshot] (Victim) lose ten pounds!
+Shotgun
+	destroyed (Victim)!
+	rekt (Victim)!
+	aggressively peppered (Victim)!
+	denied (Victim)'s life application!
+Melee
+	slayed (Victim)!
+	bludgeoned (Victim)!
+	jousted (Victim)!
+	dueled and won against (Victim)!
+Grenades
+	annihilated (Victim)!
+	plastered (Victim) to the walls!
+	fragged (Victim)!
+	made (Victim) go BOOM!
+	(player) brought a knife to a gunfight (and used it on (Victim)!)
+Rifle
+	pumped (Victim)'s guts full o' lead!
+	put some new holes in (Victim)!
+	made (Victim) see-thru!
+	tore (Victim) a new one!
+SMG
+	gave (Victim) nightmares!
+	turned (Victim) into Swiss Cheese!
+	managed to hit some shots on (Victim)!
+	had a gun and wasn't afraid to shoot at (Victim)!
+Pistol
+	(Player) went all Clint Eastwood on (Victim)!
+	(Player) triple-tapped (Victim)!
+	(Player) shot (Victim) right in the face!
+Specs
+    Flamethrower
+	torched (Victim)!
+	burned (Victim) at the stake!
+	got into a flame war with (Victim) and won!
+    Turrets
+	(Players)'s turret deleted (Victim)!
+	(Player)'s turret brought the thunder down upon (Victim)!
+	(Player)'s turret canceled (Victim)!
+    Railgun
+	(Player) sent (Victim) to the Shadow Realm!
+	(Player) obliterated (Victim)!
+	(Player) blasted (Victim)!
